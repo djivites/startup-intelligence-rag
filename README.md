@@ -35,8 +35,8 @@ Here’s the **updated and polished version** of your **🎯 Key Objectives** se
 ---
 
 ---
-
-## 🧠 System Architecture
+### 🧠 System Architecture
+![System Architecture](photos/System architecture.png)
 
 ```
 
@@ -107,8 +107,9 @@ startup-intelligence-rag/
 | Storage       | SQLite               |
 | Parsing       | BeautifulSoup        |
 | RAG Framework | LangChain            |
-In Futher implentation we will be using Gemini instead of ollama for better results.
+
 ---
+In Futher implentation we will be using Gemini instead of ollama for better results.
 
 ## 🧪 How It Works (Pipeline)
 
@@ -198,5 +199,13 @@ streamlit run retrieval/rag_app.py
 | Investor matching    | 🔜     |
 
 ## 📸 Project Screenshots
+
+### 🏠 Home / Chat Interface
+![Chat Interface](photos/opimage1.png)
+
+### 🔍 Chat history
+![Chat history](photos/opimage2.png)
+
+
 
 

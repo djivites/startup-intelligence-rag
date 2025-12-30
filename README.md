@@ -108,7 +108,7 @@ startup-intelligence-rag/
 | RAG Framework | LangChain            |
 
 ---
-# In Futher implentation we will be using Gemini instead of ollama for better results.
+### In Futher implentation we will be using Gemini instead of ollama for better results.
 
 ## 🧪 How It Works (Pipeline)
 
